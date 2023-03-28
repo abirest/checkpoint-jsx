@@ -2,7 +2,7 @@ import React from 'react';
 
 const ProfilePhoto = () => {
   return (
-    <img src="AMF.jpg" width={1000} height={500} alt="Profile photo" />
+    <img className='img' src="me.jpg" width='200px' borderRadius='10px'alt="Profile photo" />
   );
 };
 

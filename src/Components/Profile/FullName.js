@@ -2,7 +2,7 @@ import React from 'react';
 
 const FullName = () => {
   return (
-    <h1>AMF Consulting</h1>
+    <h3>Abir Bel Haj</h3>
   );
 };
 

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Address = () => {
   return (
-    <h2>Nabeul</h2>
+    <h6>El Haouaria, Nabeul</h6>
   );
 };
 
